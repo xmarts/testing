@@ -2,3 +2,8 @@
 	path = xmarts/monitoring_control
 	url = git@github.com:xmarts/monitoring_control.git
 	branch = master
+
+[submodule "xmarts/bibo_module"]
+	path = xmarts/bibo_module
+	url = git@github.com:xmarts/bibo_module.git
+	branch = dev
